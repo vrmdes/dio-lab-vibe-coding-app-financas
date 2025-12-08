@@ -2,8 +2,6 @@
 # 💸 App de Finanças Pessoais do VRMD-ES com Vibe Coding
 
 ## PRD refinado no Copilot Web
-
-```markdown
 # PRD (Product Requirements Document)
 
 ## 1. Contexto
@@ -95,8 +93,6 @@ Funcionalidades solicitadas:
   - Estética fluida e agradável.
   - Interações suaves e intuitivas.
   - Foco na sensação de uso, não apenas na funcionalidade.
-
----
 
 ## Reflexão
 
