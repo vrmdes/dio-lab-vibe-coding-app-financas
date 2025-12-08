@@ -1,4 +1,4 @@
-```markdown
+``` markdown
 # 💸 App de Finanças Pessoais do VRMD-ES com Vibe Coding
 
 ## PRD refinado no Copilot Web
